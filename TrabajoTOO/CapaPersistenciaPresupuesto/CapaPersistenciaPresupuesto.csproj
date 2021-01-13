@@ -41,11 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BD.cs" />
-    <Compile Include="Persistencia.cs" />
-    <Compile Include="PresupuestoDato.cs" />
+    <Compile Include="BDPresupuesto.cs" />
+    <Compile Include="PersistenciaPresupuesto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TablaPresupuesto.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
