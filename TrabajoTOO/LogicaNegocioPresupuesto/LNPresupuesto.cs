@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapaPersistenciaPresupuesto
+namespace LogicaNegocioPresupuesto
 {
-    class PresupuestoDato
+    public class Class1
     {
     }
 }
